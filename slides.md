@@ -14,6 +14,12 @@ revealOptions:
 
 # reveal-md & github-pages
 
-{{1_getStarted.md}}
-{{2_writing.md}}
-{{3_extras.md}}
+# hi
+
+----
+
+I am here to help you.
+
+---
+
+What is this?
